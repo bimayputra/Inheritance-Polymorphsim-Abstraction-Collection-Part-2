@@ -23,7 +23,7 @@ namespace TugasLab9
             do
             {
                 k1:
-                Console.Title = "TUGAS LAB 9 KARYAWAN 2662";
+                Console.Title = "Inheritance, Polymorphsim, Abstraction & Collection Bagian #2";
 
                 Console.WriteLine("Karyawan");
                 Console.WriteLine("=================================");
